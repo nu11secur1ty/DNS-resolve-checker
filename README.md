@@ -2,6 +2,6 @@
 - Usage
 
 ```bash
-bash pdresolver.sh
+bash pdnscheck.sh
 ```
 - follow the steps
