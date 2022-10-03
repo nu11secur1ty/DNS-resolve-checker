@@ -1,5 +1,5 @@
 #!/usr/bin/bash
-# Author V.Varbanovski
+# Author nu11secur1ty
 RED="\e[31m"
 GREEN="\e[32m"
 ENDCOLOR="\e[0m"
